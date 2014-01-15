@@ -1,0 +1,1 @@
+<h1>Today is <?php echo date("m/d/y"); ?></h1>
